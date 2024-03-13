@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "descrição": "produto 1",
+        "imagem": "../images/buque1.jpg",
+        "preco": 100.0
+    },
+    {
+        "id": 2,
+        "descrição": "produto 2",
+        "imagem": "../images/buque2.jpg",
+        "preco": 200.0
+    },
+    {
+        "id": 3,
+        "descrição": "produto 3",
+        "imagem": "../images/buque3.jpg",
+        "preco": 300.0
+    }
+]
